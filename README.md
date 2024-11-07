@@ -18,26 +18,6 @@ A simple Note App built with React that allows users to create, manage, and sear
 - Search for a Note: Type a title in the search bar to find specific note.
 - Delete or Switch Note Status: Use action buttons to delete a book or change its status.
 
-💡 How to Run the Project
-1. Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/username/note-app.git
-cd note-app
-
-2. Install dependencies:
-
-bash
-Copy code
-npm install
-
-3. Run the application:
-
-bash
-Copy code
-npm run dev
-
 📷 Screenshots
 1. Active and Archive Section
 ![image](https://github.com/user-attachments/assets/ba8cd2ab-2a23-4119-9cd3-ed29fe0c50a9)
