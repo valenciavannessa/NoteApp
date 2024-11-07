@@ -26,7 +26,7 @@ A simple Note App built with React that allows users to create, manage, and sear
 3. Search Feature
 ![image](https://github.com/user-attachments/assets/1f195faf-9e68-41aa-a6b1-06f7fffe7070)
 
-**❓ Why This Project? **
+**❓ Why This Project?**
 In day-to-day life, keeping track of ideas, tasks, and reminders can be overwhelming. This project aims to solve this by providing a fast, reliable way to manage notes, inspired by real-world usage. This project allowed me to apply practical skills in React, JavaScript, and JSX. Beside that, I also improve my experience with the entire development process, from concept to completion. Building this note-taking app was a way to deepen my understanding of React, particularly component-based architecture, and state management.
 
 **📄 Note:** This project is based on an final submission from the course "Belajar Membuat Aplikasi Web dengan React" on Dicoding Indonesia. The goal was to implement and expand on the core concepts introduced in the course.
